@@ -1,0 +1,163 @@
+Italy Prompt Output:
+The capital of Italy is Rome, and the capital of Italy is Rome.
+
+The capital of
+
+Original France Prompt Output:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+France Prompt with Full Patching (Layers 39-40):
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+France Prompt with Ablation (Layers 39-40):
+The capital of France is a city of contrasts. It is a city of contrasts, a city of
+
+Layer 39 - Patched Element 0:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 1:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 2:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 3:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 4:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 5:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 6:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 7:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 8:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 9:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 10:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 11:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 12:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 13:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 14:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 15:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 16:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 17:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 18:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 19:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 20:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 21:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 22:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 23:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Patched Element 24:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Ablated Element 0:
+The capital of France is the city of Paris. It is the largest city in France and the second
+
+Layer 39 - Ablated Element 1:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Ablated Element 2:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Ablated Element 3:
+The capital of France is the city of Paris. It is the largest city in France and the second
+
+Layer 39 - Ablated Element 4:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Ablated Element 5:
+The capital of France is the city of Paris. It is the largest city in France and the second
+
+Layer 39 - Ablated Element 6:
+The capital of France is the city of Paris. The city is the seat of government and the seat
+
+Layer 39 - Ablated Element 7:
+The capital of France is the city of Paris, which is the largest city in France. Paris is
+
+Layer 39 - Ablated Element 8:
+The capital of France is a city of contrasts. It is a city of contrasts, a city of
+
+Layer 39 - Ablated Element 9:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Ablated Element 10:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Ablated Element 11:
+The capital of France is the city of Paris, which is the largest city in France. Paris is
+
+Layer 39 - Ablated Element 12:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Ablated Element 13:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Ablated Element 14:
+The capital of France is a city of contrasts. It is a city of contrasts, a city of
+
+Layer 39 - Ablated Element 15:
+The capital of France is the city of Paris, which is the largest city in France. Paris is
+
+Layer 39 - Ablated Element 16:
+The capital of France is the city of Paris, which is the largest city in France. Paris is
+
+Layer 39 - Ablated Element 17:
+The capital of France is a city of contrasts. It is a city of contrasts, a city of
+
+Layer 39 - Ablated Element 18:
+The capital of France is a city of contrasts. It is a city of contrasts, a city of
+
+Layer 39 - Ablated Element 19:
+The capital of France is the city of Paris. It is the capital of France and the largest city
+
+Layer 39 - Ablated Element 20:
+The capital of France is the city of Paris. It is the largest city in France and the second
+
+Layer 39 - Ablated Element 21:
+The capital of France is the city of Paris, which is the largest city in France. Paris is
+
+Layer 39 - Ablated Element 22:
+The capital of France is the city of Paris. It is the largest city in France and the second
+
+Layer 39 - Ablated Element 23:
+The capital of France is the city of Paris, which is the largest city in France. Paris is
+
+Layer 39 - Ablated Element 24:
+The capital of France is the city of Paris, which is the largest city in France. Paris is
