@@ -6,5 +6,5 @@ The capital of
 Original France Prompt Output:
 The capital of France is the city of Paris. It is the capital of France and the largest city
 
-France Prompt with last 10 layers patched:
+France Prompt with last 10 layers' MLP patched:
 The capital of France is the city of Paris. It is the capital of France and the largest city
