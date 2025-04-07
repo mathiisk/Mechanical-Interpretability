@@ -2,11 +2,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-
 from aeon.datasets import load_classification
 from aeon.transformations.collection.feature_based import Catch22
-
-# For a simple classifier and imputation
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.impute import SimpleImputer
@@ -14,9 +11,7 @@ from sklearn.impute import SimpleImputer
 # -------------------------------
 # 1. Load and Transform Dataset
 # -------------------------------
-# Load a classification dataset from Aeon (using "ItalyPowerDemand" as an example)
 # X, y = load_classification("AsphaltRegularity", split="train")
-
 X, y = load_classification("AsphaltRegularity", split="train")
 
 # Apply the Catch22 transformation

@@ -1,757 +1,757 @@
 Instance 0:
-  Baseline Predicted Class: regular with probabilities [0.08966212 0.91033788]
-  Most Influential Feature: Feature_21 (Diff: 0.5650)
-  Patched Predicted Class: deteriorated with probabilities [0.65466103 0.34533897]
+  Baseline Predicted Class: regular with probabilities [0.08959518 0.91040482]
+  Most Influential Feature: Feature_21 (Diff: 0.5640)
+  Patched Predicted Class: deteriorated with probabilities [0.65356044 0.34643956]
 
 Instance 1:
-  Baseline Predicted Class: deteriorated with probabilities [0.98123241 0.01876759]
+  Baseline Predicted Class: deteriorated with probabilities [0.98112664 0.01887336]
   Most Influential Feature: Feature_21 (Diff: 0.3947)
-  Patched Predicted Class: deteriorated with probabilities [0.58657762 0.41342238]
+  Patched Predicted Class: deteriorated with probabilities [0.5863848 0.4136152]
 
 Instance 2:
-  Baseline Predicted Class: deteriorated with probabilities [0.96443069 0.03556931]
-  Most Influential Feature: Feature_21 (Diff: 0.4867)
-  Patched Predicted Class: regular with probabilities [0.47770017 0.52229983]
+  Baseline Predicted Class: deteriorated with probabilities [0.96428953 0.03571047]
+  Most Influential Feature: Feature_21 (Diff: 0.4865)
+  Patched Predicted Class: regular with probabilities [0.4778319 0.5221681]
 
 Instance 3:
-  Baseline Predicted Class: deteriorated with probabilities [0.99077546 0.00922454]
-  Most Influential Feature: Feature_21 (Diff: 0.5262)
-  Patched Predicted Class: regular with probabilities [0.46453271 0.53546729]
+  Baseline Predicted Class: deteriorated with probabilities [0.99070692 0.00929308]
+  Most Influential Feature: Feature_21 (Diff: 0.5264)
+  Patched Predicted Class: regular with probabilities [0.46431327 0.53568673]
 
 Instance 4:
-  Baseline Predicted Class: deteriorated with probabilities [0.97916113 0.02083887]
-  Most Influential Feature: Feature_21 (Diff: 0.4968)
-  Patched Predicted Class: regular with probabilities [0.48234315 0.51765685]
+  Baseline Predicted Class: deteriorated with probabilities [0.97902483 0.02097517]
+  Most Influential Feature: Feature_21 (Diff: 0.4970)
+  Patched Predicted Class: regular with probabilities [0.48201927 0.51798073]
 
 Instance 5:
-  Baseline Predicted Class: regular with probabilities [0.02537705 0.97462295]
-  Most Influential Feature: Feature_21 (Diff: 0.6939)
-  Patched Predicted Class: deteriorated with probabilities [0.71923604 0.28076396]
+  Baseline Predicted Class: regular with probabilities [0.02540946 0.97459054]
+  Most Influential Feature: Feature_21 (Diff: 0.6928)
+  Patched Predicted Class: deteriorated with probabilities [0.71823215 0.28176785]
 
 Instance 6:
-  Baseline Predicted Class: deteriorated with probabilities [0.96730858 0.03269142]
-  Most Influential Feature: Feature_21 (Diff: 0.3752)
-  Patched Predicted Class: deteriorated with probabilities [0.59210293 0.40789707]
+  Baseline Predicted Class: deteriorated with probabilities [0.96714831 0.03285169]
+  Most Influential Feature: Feature_21 (Diff: 0.3753)
+  Patched Predicted Class: deteriorated with probabilities [0.59187744 0.40812256]
 
 Instance 7:
-  Baseline Predicted Class: deteriorated with probabilities [0.97418361 0.02581639]
-  Most Influential Feature: Feature_21 (Diff: 0.4547)
-  Patched Predicted Class: deteriorated with probabilities [0.51951152 0.48048848]
+  Baseline Predicted Class: deteriorated with probabilities [0.97413882 0.02586118]
+  Most Influential Feature: Feature_21 (Diff: 0.4539)
+  Patched Predicted Class: deteriorated with probabilities [0.52028002 0.47971998]
 
 Instance 8:
-  Baseline Predicted Class: regular with probabilities [0.07257749 0.92742251]
-  Most Influential Feature: Feature_21 (Diff: 0.8285)
-  Patched Predicted Class: deteriorated with probabilities [0.90104616 0.09895384]
+  Baseline Predicted Class: regular with probabilities [0.07305123 0.92694877]
+  Most Influential Feature: Feature_21 (Diff: 0.8280)
+  Patched Predicted Class: deteriorated with probabilities [0.90109184 0.09890816]
 
 Instance 9:
-  Baseline Predicted Class: regular with probabilities [0.05670365 0.94329635]
+  Baseline Predicted Class: regular with probabilities [0.05738142 0.94261858]
   Most Influential Feature: Feature_21 (Diff: 0.8004)
-  Patched Predicted Class: deteriorated with probabilities [0.85705528 0.14294472]
+  Patched Predicted Class: deteriorated with probabilities [0.8578262 0.1421738]
 
 Instance 10:
-  Baseline Predicted Class: deteriorated with probabilities [0.89322882 0.10677118]
-  Most Influential Feature: Feature_21 (Diff: 0.5556)
-  Patched Predicted Class: regular with probabilities [0.33765687 0.66234313]
+  Baseline Predicted Class: deteriorated with probabilities [0.89318344 0.10681656]
+  Most Influential Feature: Feature_21 (Diff: 0.5548)
+  Patched Predicted Class: regular with probabilities [0.33840658 0.66159342]
 
 Instance 11:
-  Baseline Predicted Class: deteriorated with probabilities [9.99971516e-01 2.84836192e-05]
-  Most Influential Feature: Feature_21 (Diff: 0.0735)
-  Patched Predicted Class: deteriorated with probabilities [0.92646938 0.07353062]
+  Baseline Predicted Class: deteriorated with probabilities [9.99972417e-01 2.75833074e-05]
+  Most Influential Feature: Feature_21 (Diff: 0.0706)
+  Patched Predicted Class: deteriorated with probabilities [0.92934335 0.07065665]
 
 Instance 12:
-  Baseline Predicted Class: deteriorated with probabilities [0.96061055 0.03938945]
-  Most Influential Feature: Feature_21 (Diff: 0.5573)
-  Patched Predicted Class: regular with probabilities [0.40335718 0.59664282]
+  Baseline Predicted Class: deteriorated with probabilities [0.96042377 0.03957623]
+  Most Influential Feature: Feature_21 (Diff: 0.5571)
+  Patched Predicted Class: regular with probabilities [0.40335192 0.59664808]
 
 Instance 13:
-  Baseline Predicted Class: regular with probabilities [0.03760119 0.96239881]
-  Most Influential Feature: Feature_21 (Diff: 0.7529)
-  Patched Predicted Class: deteriorated with probabilities [0.79047451 0.20952549]
+  Baseline Predicted Class: regular with probabilities [0.03764359 0.96235641]
+  Most Influential Feature: Feature_21 (Diff: 0.7520)
+  Patched Predicted Class: deteriorated with probabilities [0.78963211 0.21036789]
 
 Instance 14:
-  Baseline Predicted Class: deteriorated with probabilities [0.54423245 0.45576755]
-  Most Influential Feature: Feature_21 (Diff: 0.3096)
-  Patched Predicted Class: regular with probabilities [0.23467537 0.76532463]
+  Baseline Predicted Class: deteriorated with probabilities [0.54365933 0.45634067]
+  Most Influential Feature: Feature_21 (Diff: 0.3091)
+  Patched Predicted Class: regular with probabilities [0.23459433 0.76540567]
 
 Instance 15:
-  Baseline Predicted Class: deteriorated with probabilities [0.84454997 0.15545003]
-  Most Influential Feature: Feature_21 (Diff: 0.6244)
-  Patched Predicted Class: regular with probabilities [0.22012281 0.77987719]
+  Baseline Predicted Class: deteriorated with probabilities [0.8453813 0.1546187]
+  Most Influential Feature: Feature_21 (Diff: 0.6235)
+  Patched Predicted Class: regular with probabilities [0.2219117 0.7780883]
 
 Instance 16:
-  Baseline Predicted Class: deteriorated with probabilities [0.9959047 0.0040953]
-  Most Influential Feature: Feature_21 (Diff: 0.3639)
-  Patched Predicted Class: deteriorated with probabilities [0.63205418 0.36794582]
+  Baseline Predicted Class: deteriorated with probabilities [0.99588259 0.00411741]
+  Most Influential Feature: Feature_21 (Diff: 0.3635)
+  Patched Predicted Class: deteriorated with probabilities [0.63237192 0.36762808]
 
 Instance 17:
-  Baseline Predicted Class: deteriorated with probabilities [0.99279918 0.00720082]
-  Most Influential Feature: Feature_21 (Diff: 0.4372)
-  Patched Predicted Class: deteriorated with probabilities [0.55562724 0.44437276]
+  Baseline Predicted Class: deteriorated with probabilities [0.99280435 0.00719565]
+  Most Influential Feature: Feature_21 (Diff: 0.4354)
+  Patched Predicted Class: deteriorated with probabilities [0.55739316 0.44260684]
 
 Instance 18:
-  Baseline Predicted Class: deteriorated with probabilities [0.99038501 0.00961499]
-  Most Influential Feature: Feature_21 (Diff: 0.6498)
-  Patched Predicted Class: regular with probabilities [0.34058891 0.65941109]
+  Baseline Predicted Class: deteriorated with probabilities [0.99028815 0.00971185]
+  Most Influential Feature: Feature_21 (Diff: 0.6503)
+  Patched Predicted Class: regular with probabilities [0.33994251 0.66005749]
 
 Instance 19:
-  Baseline Predicted Class: regular with probabilities [0.07667947 0.92332053]
-  Most Influential Feature: Feature_21 (Diff: 0.4793)
-  Patched Predicted Class: deteriorated with probabilities [0.5559927 0.4440073]
+  Baseline Predicted Class: regular with probabilities [0.07648004 0.92351996]
+  Most Influential Feature: Feature_21 (Diff: 0.4779)
+  Patched Predicted Class: deteriorated with probabilities [0.55437996 0.44562004]
 
 Instance 20:
-  Baseline Predicted Class: regular with probabilities [0.01859992 0.98140008]
-  Most Influential Feature: Feature_21 (Diff: 0.5937)
-  Patched Predicted Class: deteriorated with probabilities [0.61226531 0.38773469]
+  Baseline Predicted Class: regular with probabilities [0.01856368 0.98143632]
+  Most Influential Feature: Feature_21 (Diff: 0.5918)
+  Patched Predicted Class: deteriorated with probabilities [0.61035603 0.38964397]
 
 Instance 21:
-  Baseline Predicted Class: regular with probabilities [0.42861386 0.57138614]
-  Most Influential Feature: Feature_21 (Diff: 0.5348)
-  Patched Predicted Class: deteriorated with probabilities [0.9634076 0.0365924]
+  Baseline Predicted Class: regular with probabilities [0.42751212 0.57248788]
+  Most Influential Feature: Feature_21 (Diff: 0.5356)
+  Patched Predicted Class: deteriorated with probabilities [0.96307598 0.03692402]
 
 Instance 22:
-  Baseline Predicted Class: regular with probabilities [0.03192519 0.96807481]
-  Most Influential Feature: Feature_21 (Diff: 0.6591)
-  Patched Predicted Class: deteriorated with probabilities [0.69097719 0.30902281]
+  Baseline Predicted Class: regular with probabilities [0.0317891 0.9682109]
+  Most Influential Feature: Feature_21 (Diff: 0.6570)
+  Patched Predicted Class: deteriorated with probabilities [0.68879952 0.31120048]
 
 Instance 23:
-  Baseline Predicted Class: deteriorated with probabilities [0.80196143 0.19803857]
-  Most Influential Feature: Feature_21 (Diff: 0.5875)
-  Patched Predicted Class: regular with probabilities [0.21442339 0.78557661]
+  Baseline Predicted Class: deteriorated with probabilities [0.80009466 0.19990534]
+  Most Influential Feature: Feature_21 (Diff: 0.5870)
+  Patched Predicted Class: regular with probabilities [0.21307481 0.78692519]
 
 Instance 24:
-  Baseline Predicted Class: deteriorated with probabilities [0.97058588 0.02941412]
-  Most Influential Feature: Feature_21 (Diff: 0.7378)
-  Patched Predicted Class: regular with probabilities [0.23275847 0.76724153]
+  Baseline Predicted Class: deteriorated with probabilities [0.97072135 0.02927865]
+  Most Influential Feature: Feature_21 (Diff: 0.7360)
+  Patched Predicted Class: regular with probabilities [0.23475889 0.76524111]
 
 Instance 25:
-  Baseline Predicted Class: regular with probabilities [0.06273913 0.93726087]
-  Most Influential Feature: Feature_21 (Diff: 0.5446)
-  Patched Predicted Class: deteriorated with probabilities [0.60732328 0.39267672]
+  Baseline Predicted Class: regular with probabilities [0.06271928 0.93728072]
+  Most Influential Feature: Feature_21 (Diff: 0.5435)
+  Patched Predicted Class: deteriorated with probabilities [0.60621818 0.39378182]
 
 Instance 26:
-  Baseline Predicted Class: deteriorated with probabilities [0.80752054 0.19247946]
-  Most Influential Feature: Feature_21 (Diff: 0.5034)
-  Patched Predicted Class: regular with probabilities [0.3041261 0.6958739]
+  Baseline Predicted Class: deteriorated with probabilities [0.80639806 0.19360194]
+  Most Influential Feature: Feature_21 (Diff: 0.5031)
+  Patched Predicted Class: regular with probabilities [0.30325638 0.69674362]
 
 Instance 27:
-  Baseline Predicted Class: deteriorated with probabilities [0.99894528 0.00105472]
-  Most Influential Feature: Feature_21 (Diff: 0.6023)
-  Patched Predicted Class: regular with probabilities [0.39668117 0.60331883]
+  Baseline Predicted Class: deteriorated with probabilities [0.99895033 0.00104967]
+  Most Influential Feature: Feature_21 (Diff: 0.5987)
+  Patched Predicted Class: regular with probabilities [0.40021664 0.59978336]
 
 Instance 28:
-  Baseline Predicted Class: deteriorated with probabilities [0.88295557 0.11704443]
-  Most Influential Feature: Feature_21 (Diff: 0.6295)
-  Patched Predicted Class: regular with probabilities [0.2534975 0.7465025]
+  Baseline Predicted Class: deteriorated with probabilities [0.88288554 0.11711446]
+  Most Influential Feature: Feature_21 (Diff: 0.6287)
+  Patched Predicted Class: regular with probabilities [0.25417231 0.74582769]
 
 Instance 29:
-  Baseline Predicted Class: deteriorated with probabilities [0.96128987 0.03871013]
-  Most Influential Feature: Feature_21 (Diff: 0.6530)
-  Patched Predicted Class: regular with probabilities [0.30833658 0.69166342]
+  Baseline Predicted Class: deteriorated with probabilities [0.96094861 0.03905139]
+  Most Influential Feature: Feature_21 (Diff: 0.6534)
+  Patched Predicted Class: regular with probabilities [0.30756196 0.69243804]
 
 Instance 30:
-  Baseline Predicted Class: deteriorated with probabilities [0.97322855 0.02677145]
-  Most Influential Feature: Feature_21 (Diff: 0.5821)
-  Patched Predicted Class: regular with probabilities [0.39114235 0.60885765]
+  Baseline Predicted Class: deteriorated with probabilities [0.9729688 0.0270312]
+  Most Influential Feature: Feature_21 (Diff: 0.5829)
+  Patched Predicted Class: regular with probabilities [0.39009407 0.60990593]
 
 Instance 31:
-  Baseline Predicted Class: regular with probabilities [0.08709479 0.91290521]
-  Most Influential Feature: Feature_21 (Diff: 0.7558)
-  Patched Predicted Class: deteriorated with probabilities [0.84286504 0.15713496]
+  Baseline Predicted Class: regular with probabilities [0.087508 0.912492]
+  Most Influential Feature: Feature_21 (Diff: 0.7553)
+  Patched Predicted Class: deteriorated with probabilities [0.8428221 0.1571779]
 
 Instance 32:
-  Baseline Predicted Class: regular with probabilities [0.04291396 0.95708604]
-  Most Influential Feature: Feature_21 (Diff: 0.7143)
-  Patched Predicted Class: deteriorated with probabilities [0.75725236 0.24274764]
+  Baseline Predicted Class: regular with probabilities [0.04308739 0.95691261]
+  Most Influential Feature: Feature_21 (Diff: 0.7139)
+  Patched Predicted Class: deteriorated with probabilities [0.75696053 0.24303947]
 
 Instance 33:
-  Baseline Predicted Class: deteriorated with probabilities [0.98809665 0.01190335]
-  Most Influential Feature: Feature_21 (Diff: 0.2119)
-  Patched Predicted Class: deteriorated with probabilities [0.77624468 0.22375532]
+  Baseline Predicted Class: deteriorated with probabilities [0.98739479 0.01260521]
+  Most Influential Feature: Feature_21 (Diff: 0.2206)
+  Patched Predicted Class: deteriorated with probabilities [0.76678669 0.23321331]
 
 Instance 34:
-  Baseline Predicted Class: deteriorated with probabilities [0.99395811 0.00604189]
-  Most Influential Feature: Feature_21 (Diff: 0.3828)
-  Patched Predicted Class: deteriorated with probabilities [0.61111054 0.38888946]
+  Baseline Predicted Class: deteriorated with probabilities [0.99405245 0.00594755]
+  Most Influential Feature: Feature_21 (Diff: 0.3777)
+  Patched Predicted Class: deteriorated with probabilities [0.6163713 0.3836287]
 
 Instance 35:
-  Baseline Predicted Class: deteriorated with probabilities [0.9722321 0.0277679]
-  Most Influential Feature: Feature_21 (Diff: 0.3788)
-  Patched Predicted Class: deteriorated with probabilities [0.59344789 0.40655211]
+  Baseline Predicted Class: deteriorated with probabilities [0.97198624 0.02801376]
+  Most Influential Feature: Feature_21 (Diff: 0.3797)
+  Patched Predicted Class: deteriorated with probabilities [0.59230792 0.40769208]
 
 Instance 36:
-  Baseline Predicted Class: deteriorated with probabilities [0.93009211 0.06990789]
-  Most Influential Feature: Feature_21 (Diff: 0.4453)
-  Patched Predicted Class: regular with probabilities [0.48479783 0.51520217]
+  Baseline Predicted Class: deteriorated with probabilities [0.92915968 0.07084032]
+  Most Influential Feature: Feature_21 (Diff: 0.4470)
+  Patched Predicted Class: regular with probabilities [0.48214314 0.51785686]
 
 Instance 37:
-  Baseline Predicted Class: regular with probabilities [0.08668333 0.91331667]
-  Most Influential Feature: Feature_21 (Diff: 0.7171)
-  Patched Predicted Class: deteriorated with probabilities [0.80380832 0.19619168]
+  Baseline Predicted Class: regular with probabilities [0.08670895 0.91329105]
+  Most Influential Feature: Feature_21 (Diff: 0.7163)
+  Patched Predicted Class: deteriorated with probabilities [0.80304627 0.19695373]
 
 Instance 38:
-  Baseline Predicted Class: deteriorated with probabilities [0.99014362 0.00985638]
-  Most Influential Feature: Feature_21 (Diff: 0.4340)
-  Patched Predicted Class: deteriorated with probabilities [0.55618781 0.44381219]
+  Baseline Predicted Class: deteriorated with probabilities [0.99008902 0.00991098]
+  Most Influential Feature: Feature_21 (Diff: 0.4338)
+  Patched Predicted Class: deteriorated with probabilities [0.55629039 0.44370961]
 
 Instance 39:
-  Baseline Predicted Class: regular with probabilities [0.02968796 0.97031204]
-  Most Influential Feature: Feature_21 (Diff: 0.7237)
-  Patched Predicted Class: deteriorated with probabilities [0.75342696 0.24657304]
+  Baseline Predicted Class: regular with probabilities [0.03007629 0.96992371]
+  Most Influential Feature: Feature_21 (Diff: 0.7247)
+  Patched Predicted Class: deteriorated with probabilities [0.75474361 0.24525639]
 
 Instance 40:
-  Baseline Predicted Class: deteriorated with probabilities [0.99844507 0.00155493]
-  Most Influential Feature: Feature_21 (Diff: 0.2658)
-  Patched Predicted Class: deteriorated with probabilities [0.73260852 0.26739148]
+  Baseline Predicted Class: deteriorated with probabilities [0.9984512 0.0015488]
+  Most Influential Feature: Feature_21 (Diff: 0.2636)
+  Patched Predicted Class: deteriorated with probabilities [0.73483872 0.26516128]
 
 Instance 41:
-  Baseline Predicted Class: regular with probabilities [0.04066984 0.95933016]
-  Most Influential Feature: Feature_21 (Diff: 0.6887)
-  Patched Predicted Class: deteriorated with probabilities [0.72941886 0.27058114]
+  Baseline Predicted Class: regular with probabilities [0.04081769 0.95918231]
+  Most Influential Feature: Feature_21 (Diff: 0.6882)
+  Patched Predicted Class: deteriorated with probabilities [0.72904457 0.27095543]
 
 Instance 42:
-  Baseline Predicted Class: deteriorated with probabilities [0.98410327 0.01589673]
-  Most Influential Feature: Feature_21 (Diff: 0.5686)
-  Patched Predicted Class: regular with probabilities [0.41547034 0.58452966]
+  Baseline Predicted Class: deteriorated with probabilities [0.98420593 0.01579407]
+  Most Influential Feature: Feature_21 (Diff: 0.5657)
+  Patched Predicted Class: regular with probabilities [0.41855587 0.58144413]
 
 Instance 43:
-  Baseline Predicted Class: deteriorated with probabilities [0.97145538 0.02854462]
-  Most Influential Feature: Feature_21 (Diff: 0.7198)
-  Patched Predicted Class: regular with probabilities [0.25164323 0.74835677]
+  Baseline Predicted Class: deteriorated with probabilities [0.97140484 0.02859516]
+  Most Influential Feature: Feature_21 (Diff: 0.7189)
+  Patched Predicted Class: regular with probabilities [0.25249028 0.74750972]
 
 Instance 44:
-  Baseline Predicted Class: regular with probabilities [0.05744266 0.94255734]
-  Most Influential Feature: Feature_21 (Diff: 0.7488)
-  Patched Predicted Class: deteriorated with probabilities [0.80624294 0.19375706]
+  Baseline Predicted Class: regular with probabilities [0.05806815 0.94193185]
+  Most Influential Feature: Feature_21 (Diff: 0.7491)
+  Patched Predicted Class: deteriorated with probabilities [0.80713466 0.19286534]
 
 Instance 45:
-  Baseline Predicted Class: regular with probabilities [0.14989559 0.85010441]
-  Most Influential Feature: Feature_21 (Diff: 0.4930)
-  Patched Predicted Class: deteriorated with probabilities [0.64290495 0.35709505]
+  Baseline Predicted Class: regular with probabilities [0.15034302 0.84965698]
+  Most Influential Feature: Feature_21 (Diff: 0.4926)
+  Patched Predicted Class: deteriorated with probabilities [0.64298065 0.35701935]
 
 Instance 46:
-  Baseline Predicted Class: regular with probabilities [0.18884611 0.81115389]
-  Most Influential Feature: Feature_21 (Diff: 0.7168)
-  Patched Predicted Class: deteriorated with probabilities [0.9056698 0.0943302]
+  Baseline Predicted Class: regular with probabilities [0.18933561 0.81066439]
+  Most Influential Feature: Feature_21 (Diff: 0.7162)
+  Patched Predicted Class: deteriorated with probabilities [0.90550788 0.09449212]
 
 Instance 47:
-  Baseline Predicted Class: regular with probabilities [0.02523791 0.97476209]
-  Most Influential Feature: Feature_21 (Diff: 0.6409)
-  Patched Predicted Class: deteriorated with probabilities [0.66614624 0.33385376]
+  Baseline Predicted Class: regular with probabilities [0.02530041 0.97469959]
+  Most Influential Feature: Feature_21 (Diff: 0.6401)
+  Patched Predicted Class: deteriorated with probabilities [0.66538881 0.33461119]
 
 Instance 48:
-  Baseline Predicted Class: regular with probabilities [0.01877587 0.98122413]
-  Most Influential Feature: Feature_21 (Diff: 0.5329)
-  Patched Predicted Class: deteriorated with probabilities [0.55162913 0.44837087]
+  Baseline Predicted Class: regular with probabilities [0.01888586 0.98111414]
+  Most Influential Feature: Feature_21 (Diff: 0.5328)
+  Patched Predicted Class: deteriorated with probabilities [0.55169332 0.44830668]
 
 Instance 49:
-  Baseline Predicted Class: regular with probabilities [0.07668955 0.92331045]
-  Most Influential Feature: Feature_21 (Diff: 0.4541)
-  Patched Predicted Class: deteriorated with probabilities [0.53074169 0.46925831]
+  Baseline Predicted Class: regular with probabilities [0.07647654 0.92352346]
+  Most Influential Feature: Feature_21 (Diff: 0.4526)
+  Patched Predicted Class: deteriorated with probabilities [0.52910184 0.47089816]
 
 Instance 50:
-  Baseline Predicted Class: deteriorated with probabilities [0.98346974 0.01653026]
-  Most Influential Feature: Feature_21 (Diff: 0.7094)
-  Patched Predicted Class: regular with probabilities [0.27408009 0.72591991]
+  Baseline Predicted Class: deteriorated with probabilities [0.98325619 0.01674381]
+  Most Influential Feature: Feature_21 (Diff: 0.7104)
+  Patched Predicted Class: regular with probabilities [0.27286141 0.72713859]
 
 Instance 51:
-  Baseline Predicted Class: regular with probabilities [0.01498933 0.98501067]
-  Most Influential Feature: Feature_21 (Diff: 0.5503)
-  Patched Predicted Class: deteriorated with probabilities [0.56531854 0.43468146]
+  Baseline Predicted Class: regular with probabilities [0.01501326 0.98498674]
+  Most Influential Feature: Feature_21 (Diff: 0.5492)
+  Patched Predicted Class: deteriorated with probabilities [0.56422143 0.43577857]
 
 Instance 52:
-  Baseline Predicted Class: deteriorated with probabilities [0.99308266 0.00691734]
-  Most Influential Feature: Feature_21 (Diff: 0.6415)
-  Patched Predicted Class: regular with probabilities [0.3515746 0.6484254]
+  Baseline Predicted Class: deteriorated with probabilities [0.99305833 0.00694167]
+  Most Influential Feature: Feature_21 (Diff: 0.6405)
+  Patched Predicted Class: regular with probabilities [0.35250845 0.64749155]
 
 Instance 53:
-  Baseline Predicted Class: deteriorated with probabilities [0.95048233 0.04951767]
-  Most Influential Feature: Feature_21 (Diff: 0.6302)
-  Patched Predicted Class: regular with probabilities [0.32027608 0.67972392]
+  Baseline Predicted Class: deteriorated with probabilities [0.95081426 0.04918574]
+  Most Influential Feature: Feature_21 (Diff: 0.6279)
+  Patched Predicted Class: regular with probabilities [0.32292568 0.67707432]
 
 Instance 54:
-  Baseline Predicted Class: regular with probabilities [0.02474712 0.97525288]
-  Most Influential Feature: Feature_21 (Diff: 0.6062)
-  Patched Predicted Class: deteriorated with probabilities [0.6308998 0.3691002]
+  Baseline Predicted Class: regular with probabilities [0.02494625 0.97505375]
+  Most Influential Feature: Feature_21 (Diff: 0.6065)
+  Patched Predicted Class: deteriorated with probabilities [0.63147284 0.36852716]
 
 Instance 55:
-  Baseline Predicted Class: deteriorated with probabilities [9.99187155e-01 8.12844727e-04]
-  Most Influential Feature: Feature_21 (Diff: 0.3474)
-  Patched Predicted Class: deteriorated with probabilities [0.6518302 0.3481698]
+  Baseline Predicted Class: deteriorated with probabilities [9.99206578e-01 7.93421626e-04]
+  Most Influential Feature: Feature_21 (Diff: 0.3399)
+  Patched Predicted Class: deteriorated with probabilities [0.65929849 0.34070151]
 
 Instance 56:
-  Baseline Predicted Class: regular with probabilities [0.11057822 0.88942178]
-  Most Influential Feature: Feature_21 (Diff: 0.7658)
-  Patched Predicted Class: deteriorated with probabilities [0.87632919 0.12367081]
+  Baseline Predicted Class: regular with probabilities [0.11090873 0.88909127]
+  Most Influential Feature: Feature_21 (Diff: 0.7652)
+  Patched Predicted Class: deteriorated with probabilities [0.87609354 0.12390646]
 
 Instance 57:
-  Baseline Predicted Class: deteriorated with probabilities [0.85869791 0.14130209]
-  Most Influential Feature: Feature_21 (Diff: 0.4696)
-  Patched Predicted Class: regular with probabilities [0.38914178 0.61085822]
+  Baseline Predicted Class: deteriorated with probabilities [0.85922365 0.14077635]
+  Most Influential Feature: Feature_21 (Diff: 0.4683)
+  Patched Predicted Class: regular with probabilities [0.390908 0.609092]
 
 Instance 58:
-  Baseline Predicted Class: regular with probabilities [0.06617579 0.93382421]
-  Most Influential Feature: Feature_21 (Diff: 0.7931)
-  Patched Predicted Class: deteriorated with probabilities [0.85927825 0.14072175]
+  Baseline Predicted Class: regular with probabilities [0.06598147 0.93401853]
+  Most Influential Feature: Feature_21 (Diff: 0.7922)
+  Patched Predicted Class: deteriorated with probabilities [0.85815691 0.14184309]
 
 Instance 59:
-  Baseline Predicted Class: deteriorated with probabilities [0.95109843 0.04890157]
-  Most Influential Feature: Feature_21 (Diff: 0.7032)
-  Patched Predicted Class: regular with probabilities [0.24786802 0.75213198]
+  Baseline Predicted Class: deteriorated with probabilities [0.95065304 0.04934696]
+  Most Influential Feature: Feature_21 (Diff: 0.7035)
+  Patched Predicted Class: regular with probabilities [0.24713073 0.75286927]
 
 Instance 60:
-  Baseline Predicted Class: deteriorated with probabilities [0.85084833 0.14915167]
-  Most Influential Feature: Feature_21 (Diff: 0.6404)
-  Patched Predicted Class: regular with probabilities [0.21040171 0.78959829]
+  Baseline Predicted Class: deteriorated with probabilities [0.85052464 0.14947536]
+  Most Influential Feature: Feature_21 (Diff: 0.6399)
+  Patched Predicted Class: regular with probabilities [0.21067452 0.78932548]
 
 Instance 61:
-  Baseline Predicted Class: deteriorated with probabilities [9.99993808e-01 6.19197374e-06]
-  Most Influential Feature: Feature_21 (Diff: 0.0160)
-  Patched Predicted Class: deteriorated with probabilities [0.98402127 0.01597873]
+  Baseline Predicted Class: deteriorated with probabilities [9.99993258e-01 6.74157685e-06]
+  Most Influential Feature: Feature_21 (Diff: 0.0172)
+  Patched Predicted Class: deteriorated with probabilities [0.98281042 0.01718958]
 
 Instance 62:
-  Baseline Predicted Class: regular with probabilities [0.06195321 0.93804679]
-  Most Influential Feature: Feature_21 (Diff: 0.7834)
-  Patched Predicted Class: deteriorated with probabilities [0.84537793 0.15462207]
+  Baseline Predicted Class: regular with probabilities [0.06233145 0.93766855]
+  Most Influential Feature: Feature_21 (Diff: 0.7831)
+  Patched Predicted Class: deteriorated with probabilities [0.84543684 0.15456316]
 
 Instance 63:
-  Baseline Predicted Class: regular with probabilities [0.06727696 0.93272304]
-  Most Influential Feature: Feature_21 (Diff: 0.6880)
-  Patched Predicted Class: deteriorated with probabilities [0.75525087 0.24474913]
+  Baseline Predicted Class: regular with probabilities [0.06703815 0.93296185]
+  Most Influential Feature: Feature_21 (Diff: 0.6866)
+  Patched Predicted Class: deteriorated with probabilities [0.75359301 0.24640699]
 
 Instance 64:
-  Baseline Predicted Class: deteriorated with probabilities [0.99896459 0.00103541]
-  Most Influential Feature: Feature_21 (Diff: 0.2595)
-  Patched Predicted Class: deteriorated with probabilities [0.73949963 0.26050037]
+  Baseline Predicted Class: deteriorated with probabilities [0.99898406 0.00101594]
+  Most Influential Feature: Feature_21 (Diff: 0.2543)
+  Patched Predicted Class: deteriorated with probabilities [0.7446624 0.2553376]
 
 Instance 65:
-  Baseline Predicted Class: deteriorated with probabilities [0.76277364 0.23722636]
-  Most Influential Feature: Feature_21 (Diff: 0.3419)
-  Patched Predicted Class: regular with probabilities [0.42085575 0.57914425]
+  Baseline Predicted Class: deteriorated with probabilities [0.76372579 0.23627421]
+  Most Influential Feature: Feature_21 (Diff: 0.3411)
+  Patched Predicted Class: regular with probabilities [0.42263677 0.57736323]
 
 Instance 66:
-  Baseline Predicted Class: deteriorated with probabilities [0.92724931 0.07275069]
-  Most Influential Feature: Feature_21 (Diff: 0.3516)
-  Patched Predicted Class: deteriorated with probabilities [0.57561199 0.42438801]
+  Baseline Predicted Class: deteriorated with probabilities [0.92725847 0.07274153]
+  Most Influential Feature: Feature_21 (Diff: 0.3509)
+  Patched Predicted Class: deteriorated with probabilities [0.57639339 0.42360661]
 
 Instance 67:
-  Baseline Predicted Class: deteriorated with probabilities [0.99497938 0.00502062]
-  Most Influential Feature: Feature_21 (Diff: 0.4910)
-  Patched Predicted Class: deteriorated with probabilities [0.50393476 0.49606524]
+  Baseline Predicted Class: deteriorated with probabilities [0.99496453 0.00503547]
+  Most Influential Feature: Feature_21 (Diff: 0.4900)
+  Patched Predicted Class: deteriorated with probabilities [0.5049955 0.4950045]
 
 Instance 68:
-  Baseline Predicted Class: regular with probabilities [0.01534925 0.98465075]
-  Most Influential Feature: Feature_21 (Diff: 0.5604)
-  Patched Predicted Class: deteriorated with probabilities [0.57575142 0.42424858]
+  Baseline Predicted Class: regular with probabilities [0.01538316 0.98461684]
+  Most Influential Feature: Feature_21 (Diff: 0.5594)
+  Patched Predicted Class: deteriorated with probabilities [0.57480671 0.42519329]
 
 Instance 69:
-  Baseline Predicted Class: regular with probabilities [0.0591483 0.9408517]
-  Most Influential Feature: Feature_21 (Diff: 0.6639)
-  Patched Predicted Class: deteriorated with probabilities [0.72304703 0.27695297]
+  Baseline Predicted Class: regular with probabilities [0.05943648 0.94056352]
+  Most Influential Feature: Feature_21 (Diff: 0.6636)
+  Patched Predicted Class: deteriorated with probabilities [0.72306123 0.27693877]
 
 Instance 70:
-  Baseline Predicted Class: regular with probabilities [0.01966609 0.98033391]
-  Most Influential Feature: Feature_21 (Diff: 0.4949)
-  Patched Predicted Class: deteriorated with probabilities [0.51461246 0.48538754]
+  Baseline Predicted Class: regular with probabilities [0.01975151 0.98024849]
+  Most Influential Feature: Feature_21 (Diff: 0.4946)
+  Patched Predicted Class: deteriorated with probabilities [0.51436163 0.48563837]
 
 Instance 71:
-  Baseline Predicted Class: regular with probabilities [0.10683619 0.89316381]
-  Most Influential Feature: Feature_21 (Diff: 0.5925)
-  Patched Predicted Class: deteriorated with probabilities [0.69936126 0.30063874]
+  Baseline Predicted Class: regular with probabilities [0.10697392 0.89302608]
+  Most Influential Feature: Feature_21 (Diff: 0.5918)
+  Patched Predicted Class: deteriorated with probabilities [0.69881099 0.30118901]
 
 Instance 72:
-  Baseline Predicted Class: deteriorated with probabilities [0.96137838 0.03862162]
-  Most Influential Feature: Feature_21 (Diff: 0.6384)
-  Patched Predicted Class: regular with probabilities [0.322988 0.677012]
+  Baseline Predicted Class: deteriorated with probabilities [0.96172546 0.03827454]
+  Most Influential Feature: Feature_21 (Diff: 0.6355)
+  Patched Predicted Class: regular with probabilities [0.32623185 0.67376815]
 
 Instance 73:
-  Baseline Predicted Class: regular with probabilities [0.05669285 0.94330715]
-  Most Influential Feature: Feature_21 (Diff: 0.7586)
-  Patched Predicted Class: deteriorated with probabilities [0.81526037 0.18473963]
+  Baseline Predicted Class: regular with probabilities [0.05700413 0.94299587]
+  Most Influential Feature: Feature_21 (Diff: 0.7582)
+  Patched Predicted Class: deteriorated with probabilities [0.81524992 0.18475008]
 
 Instance 74:
-  Baseline Predicted Class: regular with probabilities [0.05909501 0.94090499]
-  Most Influential Feature: Feature_21 (Diff: 0.6908)
-  Patched Predicted Class: deteriorated with probabilities [0.74991807 0.25008193]
+  Baseline Predicted Class: regular with probabilities [0.05902401 0.94097599]
+  Most Influential Feature: Feature_21 (Diff: 0.6897)
+  Patched Predicted Class: deteriorated with probabilities [0.74868498 0.25131502]
 
 Instance 75:
-  Baseline Predicted Class: regular with probabilities [0.03933582 0.96066418]
-  Most Influential Feature: Feature_21 (Diff: 0.6338)
-  Patched Predicted Class: deteriorated with probabilities [0.67312375 0.32687625]
+  Baseline Predicted Class: regular with probabilities [0.03918616 0.96081384]
+  Most Influential Feature: Feature_21 (Diff: 0.6319)
+  Patched Predicted Class: deteriorated with probabilities [0.67106863 0.32893137]
 
 Instance 76:
-  Baseline Predicted Class: regular with probabilities [0.02100643 0.97899357]
-  Most Influential Feature: Feature_21 (Diff: 0.6802)
-  Patched Predicted Class: deteriorated with probabilities [0.70123917 0.29876083]
+  Baseline Predicted Class: regular with probabilities [0.02111921 0.97888079]
+  Most Influential Feature: Feature_21 (Diff: 0.6799)
+  Patched Predicted Class: deteriorated with probabilities [0.70104 0.29896]
 
 Instance 77:
-  Baseline Predicted Class: deteriorated with probabilities [0.99715849 0.00284151]
-  Most Influential Feature: Feature_21 (Diff: 0.5715)
-  Patched Predicted Class: regular with probabilities [0.42568365 0.57431635]
+  Baseline Predicted Class: deteriorated with probabilities [0.99714446 0.00285554]
+  Most Influential Feature: Feature_21 (Diff: 0.5706)
+  Patched Predicted Class: regular with probabilities [0.42653545 0.57346455]
 
 Instance 78:
-  Baseline Predicted Class: deteriorated with probabilities [0.89628158 0.10371842]
-  Most Influential Feature: Feature_21 (Diff: 0.6028)
-  Patched Predicted Class: regular with probabilities [0.29352154 0.70647846]
+  Baseline Predicted Class: deteriorated with probabilities [0.89576035 0.10423965]
+  Most Influential Feature: Feature_21 (Diff: 0.6025)
+  Patched Predicted Class: regular with probabilities [0.29322214 0.70677786]
 
 Instance 79:
-  Baseline Predicted Class: regular with probabilities [0.03952507 0.96047493]
-  Most Influential Feature: Feature_21 (Diff: 0.7403)
-  Patched Predicted Class: deteriorated with probabilities [0.77978285 0.22021715]
+  Baseline Predicted Class: regular with probabilities [0.03953645 0.96046355]
+  Most Influential Feature: Feature_21 (Diff: 0.7393)
+  Patched Predicted Class: deteriorated with probabilities [0.77878654 0.22121346]
 
 Instance 80:
-  Baseline Predicted Class: deteriorated with probabilities [0.97420499 0.02579501]
-  Most Influential Feature: Feature_21 (Diff: 0.7546)
-  Patched Predicted Class: regular with probabilities [0.21961881 0.78038119]
+  Baseline Predicted Class: deteriorated with probabilities [0.97410317 0.02589683]
+  Most Influential Feature: Feature_21 (Diff: 0.7540)
+  Patched Predicted Class: regular with probabilities [0.22007427 0.77992573]
 
 Instance 81:
-  Baseline Predicted Class: deteriorated with probabilities [0.84762232 0.15237768]
-  Most Influential Feature: Feature_21 (Diff: 0.6547)
-  Patched Predicted Class: regular with probabilities [0.19292017 0.80707983]
+  Baseline Predicted Class: deteriorated with probabilities [0.84613472 0.15386528]
+  Most Influential Feature: Feature_21 (Diff: 0.6543)
+  Patched Predicted Class: regular with probabilities [0.19180655 0.80819345]
 
 Instance 82:
-  Baseline Predicted Class: regular with probabilities [0.0131793 0.9868207]
-  Most Influential Feature: Feature_21 (Diff: 0.5018)
-  Patched Predicted Class: deteriorated with probabilities [0.51495551 0.48504449]
+  Baseline Predicted Class: regular with probabilities [0.01321519 0.98678481]
+  Most Influential Feature: Feature_21 (Diff: 0.5009)
+  Patched Predicted Class: deteriorated with probabilities [0.51414916 0.48585084]
 
 Instance 83:
-  Baseline Predicted Class: regular with probabilities [0.13674202 0.86325798]
-  Most Influential Feature: Feature_21 (Diff: 0.7017)
-  Patched Predicted Class: deteriorated with probabilities [0.83843659 0.16156341]
+  Baseline Predicted Class: regular with probabilities [0.13800994 0.86199006]
+  Most Influential Feature: Feature_21 (Diff: 0.7012)
+  Patched Predicted Class: deteriorated with probabilities [0.83923798 0.16076202]
 
 Instance 84:
-  Baseline Predicted Class: deteriorated with probabilities [0.95938096 0.04061904]
-  Most Influential Feature: Feature_21 (Diff: 0.4532)
-  Patched Predicted Class: deteriorated with probabilities [0.50621658 0.49378342]
+  Baseline Predicted Class: deteriorated with probabilities [0.95918572 0.04081428]
+  Most Influential Feature: Feature_21 (Diff: 0.4531)
+  Patched Predicted Class: deteriorated with probabilities [0.50603947 0.49396053]
 
 Instance 85:
-  Baseline Predicted Class: deteriorated with probabilities [0.98842311 0.01157689]
-  Most Influential Feature: Feature_21 (Diff: 0.5050)
-  Patched Predicted Class: regular with probabilities [0.48346835 0.51653165]
+  Baseline Predicted Class: deteriorated with probabilities [0.98839428 0.01160572]
+  Most Influential Feature: Feature_21 (Diff: 0.5040)
+  Patched Predicted Class: regular with probabilities [0.48438146 0.51561854]
 
 Instance 86:
-  Baseline Predicted Class: regular with probabilities [0.15764054 0.84235946]
-  Most Influential Feature: Feature_21 (Diff: 0.4058)
-  Patched Predicted Class: deteriorated with probabilities [0.56346442 0.43653558]
+  Baseline Predicted Class: regular with probabilities [0.15751886 0.84248114]
+  Most Influential Feature: Feature_21 (Diff: 0.4051)
+  Patched Predicted Class: deteriorated with probabilities [0.56258919 0.43741081]
 
 Instance 87:
-  Baseline Predicted Class: regular with probabilities [0.02035303 0.97964697]
-  Most Influential Feature: Feature_21 (Diff: 0.6586)
-  Patched Predicted Class: deteriorated with probabilities [0.67890575 0.32109425]
+  Baseline Predicted Class: regular with probabilities [0.0205441 0.9794559]
+  Most Influential Feature: Feature_21 (Diff: 0.6591)
+  Patched Predicted Class: deteriorated with probabilities [0.67960676 0.32039324]
 
 Instance 88:
-  Baseline Predicted Class: regular with probabilities [0.01797085 0.98202915]
-  Most Influential Feature: Feature_21 (Diff: 0.4280)
-  Patched Predicted Class: regular with probabilities [0.44601798 0.55398202]
+  Baseline Predicted Class: regular with probabilities [0.01794539 0.98205461]
+  Most Influential Feature: Feature_21 (Diff: 0.4264)
+  Patched Predicted Class: regular with probabilities [0.44438323 0.55561677]
 
 Instance 89:
-  Baseline Predicted Class: deteriorated with probabilities [0.852658 0.147342]
-  Most Influential Feature: Feature_21 (Diff: 0.6969)
-  Patched Predicted Class: regular with probabilities [0.15573956 0.84426044]
+  Baseline Predicted Class: deteriorated with probabilities [0.85298682 0.14701318]
+  Most Influential Feature: Feature_21 (Diff: 0.6963)
+  Patched Predicted Class: regular with probabilities [0.15670604 0.84329396]
 
 Instance 90:
-  Baseline Predicted Class: regular with probabilities [0.0285151 0.9714849]
-  Most Influential Feature: Feature_21 (Diff: 0.7273)
-  Patched Predicted Class: deteriorated with probabilities [0.75584595 0.24415405]
+  Baseline Predicted Class: regular with probabilities [0.0285605 0.9714395]
+  Most Influential Feature: Feature_21 (Diff: 0.7264)
+  Patched Predicted Class: deteriorated with probabilities [0.75497154 0.24502846]
 
 Instance 91:
-  Baseline Predicted Class: deteriorated with probabilities [0.99751736 0.00248264]
-  Most Influential Feature: Feature_21 (Diff: 0.7268)
-  Patched Predicted Class: regular with probabilities [0.27069758 0.72930242]
+  Baseline Predicted Class: deteriorated with probabilities [0.99752881 0.00247119]
+  Most Influential Feature: Feature_21 (Diff: 0.7240)
+  Patched Predicted Class: regular with probabilities [0.27350807 0.72649193]
 
 Instance 92:
-  Baseline Predicted Class: regular with probabilities [0.04150706 0.95849294]
-  Most Influential Feature: Feature_21 (Diff: 0.5150)
-  Patched Predicted Class: deteriorated with probabilities [0.55655609 0.44344391]
+  Baseline Predicted Class: regular with probabilities [0.04148385 0.95851615]
+  Most Influential Feature: Feature_21 (Diff: 0.5138)
+  Patched Predicted Class: deteriorated with probabilities [0.55527543 0.44472457]
 
 Instance 93:
-  Baseline Predicted Class: regular with probabilities [0.08234785 0.91765215]
-  Most Influential Feature: Feature_21 (Diff: 0.7879)
-  Patched Predicted Class: deteriorated with probabilities [0.8702209 0.1297791]
+  Baseline Predicted Class: regular with probabilities [0.08219644 0.91780356]
+  Most Influential Feature: Feature_21 (Diff: 0.7871)
+  Patched Predicted Class: deteriorated with probabilities [0.8693256 0.1306744]
 
 Instance 94:
-  Baseline Predicted Class: deteriorated with probabilities [0.94679186 0.05320814]
-  Most Influential Feature: Feature_21 (Diff: 0.4415)
-  Patched Predicted Class: deteriorated with probabilities [0.50530235 0.49469765]
+  Baseline Predicted Class: deteriorated with probabilities [0.94670738 0.05329262]
+  Most Influential Feature: Feature_21 (Diff: 0.4408)
+  Patched Predicted Class: deteriorated with probabilities [0.50586031 0.49413969]
 
 Instance 95:
-  Baseline Predicted Class: deteriorated with probabilities [0.98965731 0.01034269]
-  Most Influential Feature: Feature_21 (Diff: 0.8201)
-  Patched Predicted Class: regular with probabilities [0.16957384 0.83042616]
+  Baseline Predicted Class: deteriorated with probabilities [0.98967251 0.01032749]
+  Most Influential Feature: Feature_21 (Diff: 0.8187)
+  Patched Predicted Class: regular with probabilities [0.17097188 0.82902812]
 
 Instance 96:
-  Baseline Predicted Class: regular with probabilities [0.46244948 0.53755052]
-  Most Influential Feature: Feature_21 (Diff: 0.5155)
-  Patched Predicted Class: deteriorated with probabilities [0.97792776 0.02207224]
+  Baseline Predicted Class: regular with probabilities [0.46334051 0.53665949]
+  Most Influential Feature: Feature_21 (Diff: 0.5145)
+  Patched Predicted Class: deteriorated with probabilities [0.97788874 0.02211126]
 
 Instance 97:
-  Baseline Predicted Class: regular with probabilities [0.30165952 0.69834048]
-  Most Influential Feature: Feature_21 (Diff: 0.5809)
-  Patched Predicted Class: deteriorated with probabilities [0.88259939 0.11740061]
+  Baseline Predicted Class: regular with probabilities [0.30255519 0.69744481]
+  Most Influential Feature: Feature_21 (Diff: 0.5801)
+  Patched Predicted Class: deteriorated with probabilities [0.88263478 0.11736522]
 
 Instance 98:
-  Baseline Predicted Class: deteriorated with probabilities [0.78697533 0.21302467]
-  Most Influential Feature: Feature_21 (Diff: 0.4310)
-  Patched Predicted Class: regular with probabilities [0.35594216 0.64405784]
+  Baseline Predicted Class: deteriorated with probabilities [0.785875 0.214125]
+  Most Influential Feature: Feature_21 (Diff: 0.4308)
+  Patched Predicted Class: regular with probabilities [0.35503643 0.64496357]
 
 Instance 99:
-  Baseline Predicted Class: deteriorated with probabilities [0.84268462 0.15731538]
-  Most Influential Feature: Feature_21 (Diff: 0.4568)
-  Patched Predicted Class: regular with probabilities [0.38586151 0.61413849]
+  Baseline Predicted Class: deteriorated with probabilities [0.84192913 0.15807087]
+  Most Influential Feature: Feature_21 (Diff: 0.4567)
+  Patched Predicted Class: regular with probabilities [0.38520832 0.61479168]
 
 Instance 100:
-  Baseline Predicted Class: deteriorated with probabilities [0.97117355 0.02882645]
-  Most Influential Feature: Feature_21 (Diff: 0.6506)
-  Patched Predicted Class: regular with probabilities [0.3205621 0.6794379]
+  Baseline Predicted Class: deteriorated with probabilities [0.97124054 0.02875946]
+  Most Influential Feature: Feature_21 (Diff: 0.6489)
+  Patched Predicted Class: regular with probabilities [0.32235777 0.67764223]
 
 Instance 101:
-  Baseline Predicted Class: regular with probabilities [0.06800031 0.93199969]
-  Most Influential Feature: Feature_21 (Diff: 0.7777)
-  Patched Predicted Class: deteriorated with probabilities [0.84572799 0.15427201]
+  Baseline Predicted Class: regular with probabilities [0.06805221 0.93194779]
+  Most Influential Feature: Feature_21 (Diff: 0.7770)
+  Patched Predicted Class: deteriorated with probabilities [0.84506299 0.15493701]
 
 Instance 102:
-  Baseline Predicted Class: deteriorated with probabilities [0.83229429 0.16770571]
-  Most Influential Feature: Feature_21 (Diff: 0.4295)
-  Patched Predicted Class: regular with probabilities [0.40284302 0.59715698]
+  Baseline Predicted Class: deteriorated with probabilities [0.83224127 0.16775873]
+  Most Influential Feature: Feature_21 (Diff: 0.4288)
+  Patched Predicted Class: regular with probabilities [0.40340827 0.59659173]
 
 Instance 103:
-  Baseline Predicted Class: regular with probabilities [0.02642505 0.97357495]
-  Most Influential Feature: Feature_21 (Diff: 0.6030)
-  Patched Predicted Class: deteriorated with probabilities [0.62938113 0.37061887]
+  Baseline Predicted Class: regular with probabilities [0.02638736 0.97361264]
+  Most Influential Feature: Feature_21 (Diff: 0.6013)
+  Patched Predicted Class: deteriorated with probabilities [0.62771833 0.37228167]
 
 Instance 104:
-  Baseline Predicted Class: deteriorated with probabilities [0.71712564 0.28287436]
-  Most Influential Feature: Feature_21 (Diff: 0.5522)
-  Patched Predicted Class: regular with probabilities [0.16489317 0.83510683]
+  Baseline Predicted Class: deteriorated with probabilities [0.71609456 0.28390544]
+  Most Influential Feature: Feature_21 (Diff: 0.5514)
+  Patched Predicted Class: regular with probabilities [0.16467479 0.83532521]
 
 Instance 105:
-  Baseline Predicted Class: deteriorated with probabilities [0.8545318 0.1454682]
-  Most Influential Feature: Feature_21 (Diff: 0.5740)
-  Patched Predicted Class: regular with probabilities [0.28052085 0.71947915]
+  Baseline Predicted Class: deteriorated with probabilities [0.85385541 0.14614459]
+  Most Influential Feature: Feature_21 (Diff: 0.5737)
+  Patched Predicted Class: regular with probabilities [0.28017353 0.71982647]
 
 Instance 106:
-  Baseline Predicted Class: regular with probabilities [0.03568765 0.96431235]
-  Most Influential Feature: Feature_21 (Diff: 0.6513)
-  Patched Predicted Class: deteriorated with probabilities [0.68701002 0.31298998]
+  Baseline Predicted Class: regular with probabilities [0.03557912 0.96442088]
+  Most Influential Feature: Feature_21 (Diff: 0.6495)
+  Patched Predicted Class: deteriorated with probabilities [0.68512729 0.31487271]
 
 Instance 107:
-  Baseline Predicted Class: regular with probabilities [0.04487336 0.95512664]
-  Most Influential Feature: Feature_21 (Diff: 0.7606)
-  Patched Predicted Class: deteriorated with probabilities [0.80549756 0.19450244]
+  Baseline Predicted Class: regular with probabilities [0.04487317 0.95512683]
+  Most Influential Feature: Feature_21 (Diff: 0.7597)
+  Patched Predicted Class: deteriorated with probabilities [0.80453548 0.19546452]
 
 Instance 108:
-  Baseline Predicted Class: regular with probabilities [0.08573291 0.91426709]
-  Most Influential Feature: Feature_21 (Diff: 0.7396)
-  Patched Predicted Class: deteriorated with probabilities [0.82530017 0.17469983]
+  Baseline Predicted Class: regular with probabilities [0.08549152 0.91450848]
+  Most Influential Feature: Feature_21 (Diff: 0.7386)
+  Patched Predicted Class: deteriorated with probabilities [0.82407942 0.17592058]
 
 Instance 109:
-  Baseline Predicted Class: deteriorated with probabilities [0.96897796 0.03102204]
-  Most Influential Feature: Feature_21 (Diff: 0.4511)
-  Patched Predicted Class: deteriorated with probabilities [0.51791041 0.48208959]
+  Baseline Predicted Class: deteriorated with probabilities [0.96899635 0.03100365]
+  Most Influential Feature: Feature_21 (Diff: 0.4498)
+  Patched Predicted Class: deteriorated with probabilities [0.51921361 0.48078639]
 
 Instance 110:
-  Baseline Predicted Class: regular with probabilities [0.0461031 0.9538969]
-  Most Influential Feature: Feature_21 (Diff: 0.5969)
-  Patched Predicted Class: deteriorated with probabilities [0.64298473 0.35701527]
+  Baseline Predicted Class: regular with probabilities [0.04600724 0.95399276]
+  Most Influential Feature: Feature_21 (Diff: 0.5953)
+  Patched Predicted Class: deteriorated with probabilities [0.64134644 0.35865356]
 
 Instance 111:
-  Baseline Predicted Class: regular with probabilities [0.01392423 0.98607577]
-  Most Influential Feature: Feature_21 (Diff: 0.5678)
-  Patched Predicted Class: deteriorated with probabilities [0.58168069 0.41831931]
+  Baseline Predicted Class: regular with probabilities [0.01383151 0.98616849]
+  Most Influential Feature: Feature_21 (Diff: 0.5647)
+  Patched Predicted Class: deteriorated with probabilities [0.57850151 0.42149849]
 
 Instance 112:
-  Baseline Predicted Class: deteriorated with probabilities [0.99022113 0.00977887]
-  Most Influential Feature: Feature_21 (Diff: 0.6610)
-  Patched Predicted Class: regular with probabilities [0.32925346 0.67074654]
+  Baseline Predicted Class: deteriorated with probabilities [0.99020919 0.00979081]
+  Most Influential Feature: Feature_21 (Diff: 0.6596)
+  Patched Predicted Class: regular with probabilities [0.33059227 0.66940773]
 
 Instance 113:
-  Baseline Predicted Class: regular with probabilities [0.00607963 0.99392037]
-  Most Influential Feature: Feature_21 (Diff: 0.3389)
-  Patched Predicted Class: regular with probabilities [0.34502477 0.65497523]
+  Baseline Predicted Class: regular with probabilities [0.00603442 0.99396558]
+  Most Influential Feature: Feature_21 (Diff: 0.3359)
+  Patched Predicted Class: regular with probabilities [0.34195727 0.65804273]
 
 Instance 114:
-  Baseline Predicted Class: regular with probabilities [0.01861464 0.98138536]
-  Most Influential Feature: Feature_21 (Diff: 0.4799)
-  Patched Predicted Class: regular with probabilities [0.49854423 0.50145577]
+  Baseline Predicted Class: regular with probabilities [0.01859002 0.98140998]
+  Most Influential Feature: Feature_21 (Diff: 0.4783)
+  Patched Predicted Class: regular with probabilities [0.49685351 0.50314649]
 
 Instance 115:
-  Baseline Predicted Class: regular with probabilities [0.02577246 0.97422754]
-  Most Influential Feature: Feature_21 (Diff: 0.5094)
-  Patched Predicted Class: deteriorated with probabilities [0.53515011 0.46484989]
+  Baseline Predicted Class: regular with probabilities [0.02569953 0.97430047]
+  Most Influential Feature: Feature_21 (Diff: 0.5074)
+  Patched Predicted Class: deteriorated with probabilities [0.53314237 0.46685763]
 
 Instance 116:
-  Baseline Predicted Class: regular with probabilities [0.05916591 0.94083409]
-  Most Influential Feature: Feature_21 (Diff: 0.7255)
-  Patched Predicted Class: deteriorated with probabilities [0.78467209 0.21532791]
+  Baseline Predicted Class: regular with probabilities [0.05917688 0.94082312]
+  Most Influential Feature: Feature_21 (Diff: 0.7246)
+  Patched Predicted Class: deteriorated with probabilities [0.78376605 0.21623395]
 
 Instance 117:
-  Baseline Predicted Class: deteriorated with probabilities [0.99258932 0.00741068]
-  Most Influential Feature: Feature_21 (Diff: 0.4920)
-  Patched Predicted Class: deteriorated with probabilities [0.50059986 0.49940014]
+  Baseline Predicted Class: deteriorated with probabilities [0.99254024 0.00745976]
+  Most Influential Feature: Feature_21 (Diff: 0.4919)
+  Patched Predicted Class: deteriorated with probabilities [0.50061093 0.49938907]
 
 Instance 118:
-  Baseline Predicted Class: regular with probabilities [0.03676483 0.96323517]
-  Most Influential Feature: Feature_21 (Diff: 0.6243)
-  Patched Predicted Class: deteriorated with probabilities [0.66103815 0.33896185]
+  Baseline Predicted Class: regular with probabilities [0.03663486 0.96336514]
+  Most Influential Feature: Feature_21 (Diff: 0.6224)
+  Patched Predicted Class: deteriorated with probabilities [0.65900611 0.34099389]
 
 Instance 119:
-  Baseline Predicted Class: deteriorated with probabilities [0.92155574 0.07844426]
-  Most Influential Feature: Feature_21 (Diff: 0.4154)
-  Patched Predicted Class: deteriorated with probabilities [0.50614933 0.49385067]
+  Baseline Predicted Class: deteriorated with probabilities [0.92128429 0.07871571]
+  Most Influential Feature: Feature_21 (Diff: 0.4152)
+  Patched Predicted Class: deteriorated with probabilities [0.50604593 0.49395407]
 
 Instance 120:
-  Baseline Predicted Class: regular with probabilities [0.02324216 0.97675784]
-  Most Influential Feature: Feature_21 (Diff: 0.6289)
-  Patched Predicted Class: deteriorated with probabilities [0.65209462 0.34790538]
+  Baseline Predicted Class: regular with probabilities [0.02334953 0.97665047]
+  Most Influential Feature: Feature_21 (Diff: 0.6285)
+  Patched Predicted Class: deteriorated with probabilities [0.6518104 0.3481896]
 
 Instance 121:
-  Baseline Predicted Class: deteriorated with probabilities [0.99877338 0.00122662]
-  Most Influential Feature: Feature_21 (Diff: 0.5334)
-  Patched Predicted Class: regular with probabilities [0.46534444 0.53465556]
+  Baseline Predicted Class: deteriorated with probabilities [0.99874986 0.00125014]
+  Most Influential Feature: Feature_21 (Diff: 0.5358)
+  Patched Predicted Class: regular with probabilities [0.4629406 0.5370594]
 
 Instance 122:
-  Baseline Predicted Class: regular with probabilities [0.01854741 0.98145259]
-  Most Influential Feature: Feature_21 (Diff: 0.6886)
-  Patched Predicted Class: deteriorated with probabilities [0.7071208 0.2928792]
+  Baseline Predicted Class: regular with probabilities [0.01854179 0.98145821]
+  Most Influential Feature: Feature_21 (Diff: 0.6871)
+  Patched Predicted Class: deteriorated with probabilities [0.70568117 0.29431883]
 
 Instance 123:
-  Baseline Predicted Class: deteriorated with probabilities [0.92607088 0.07392912]
-  Most Influential Feature: Feature_21 (Diff: 0.5618)
-  Patched Predicted Class: regular with probabilities [0.36422666 0.63577334]
+  Baseline Predicted Class: deteriorated with probabilities [0.92670494 0.07329506]
+  Most Influential Feature: Feature_21 (Diff: 0.5593)
+  Patched Predicted Class: regular with probabilities [0.36736235 0.63263765]
 
 Instance 124:
-  Baseline Predicted Class: regular with probabilities [0.00215175 0.99784825]
-  Most Influential Feature: Feature_21 (Diff: 0.1767)
-  Patched Predicted Class: regular with probabilities [0.1788095 0.8211905]
+  Baseline Predicted Class: regular with probabilities [0.00215089 0.99784911]
+  Most Influential Feature: Feature_21 (Diff: 0.1757)
+  Patched Predicted Class: regular with probabilities [0.17782597 0.82217403]
 
 Instance 125:
-  Baseline Predicted Class: deteriorated with probabilities [0.9610371 0.0389629]
-  Most Influential Feature: Feature_21 (Diff: 0.5880)
-  Patched Predicted Class: regular with probabilities [0.37303705 0.62696295]
+  Baseline Predicted Class: deteriorated with probabilities [0.96141061 0.03858939]
+  Most Influential Feature: Feature_21 (Diff: 0.5848)
+  Patched Predicted Class: regular with probabilities [0.37657874 0.62342126]
 
 Instance 126:
-  Baseline Predicted Class: regular with probabilities [0.17554466 0.82445534]
-  Most Influential Feature: Feature_21 (Diff: 0.6902)
-  Patched Predicted Class: deteriorated with probabilities [0.86575793 0.13424207]
+  Baseline Predicted Class: regular with probabilities [0.17633513 0.82366487]
+  Most Influential Feature: Feature_21 (Diff: 0.6895)
+  Patched Predicted Class: deteriorated with probabilities [0.86584947 0.13415053]
 
 Instance 127:
-  Baseline Predicted Class: regular with probabilities [0.01686897 0.98313103]
-  Most Influential Feature: Feature_21 (Diff: 0.5633)
-  Patched Predicted Class: deteriorated with probabilities [0.58019734 0.41980266]
+  Baseline Predicted Class: regular with probabilities [0.01695471 0.98304529]
+  Most Influential Feature: Feature_21 (Diff: 0.5630)
+  Patched Predicted Class: deteriorated with probabilities [0.57999162 0.42000838]
 
 Instance 128:
-  Baseline Predicted Class: deteriorated with probabilities [0.98924641 0.01075359]
-  Most Influential Feature: Feature_21 (Diff: 0.5028)
-  Patched Predicted Class: regular with probabilities [0.48641715 0.51358285]
+  Baseline Predicted Class: deteriorated with probabilities [0.98929165 0.01070835]
+  Most Influential Feature: Feature_21 (Diff: 0.5002)
+  Patched Predicted Class: regular with probabilities [0.48904533 0.51095467]
 
 Instance 129:
-  Baseline Predicted Class: regular with probabilities [0.03855071 0.96144929]
-  Most Influential Feature: Feature_21 (Diff: 0.6855)
-  Patched Predicted Class: deteriorated with probabilities [0.72402979 0.27597021]
+  Baseline Predicted Class: regular with probabilities [0.0385874 0.9614126]
+  Most Influential Feature: Feature_21 (Diff: 0.6845)
+  Patched Predicted Class: deteriorated with probabilities [0.72308403 0.27691597]
 
 Instance 130:
-  Baseline Predicted Class: deteriorated with probabilities [0.98235852 0.01764148]
-  Most Influential Feature: Feature_21 (Diff: 0.5095)
-  Patched Predicted Class: regular with probabilities [0.47282157 0.52717843]
+  Baseline Predicted Class: deteriorated with probabilities [0.98220332 0.01779668]
+  Most Influential Feature: Feature_21 (Diff: 0.5102)
+  Patched Predicted Class: regular with probabilities [0.47200623 0.52799377]
 
 Instance 131:
-  Baseline Predicted Class: deteriorated with probabilities [0.90172212 0.09827788]
-  Most Influential Feature: Feature_21 (Diff: 0.7338)
-  Patched Predicted Class: regular with probabilities [0.16794057 0.83205943]
+  Baseline Predicted Class: deteriorated with probabilities [0.90066377 0.09933623]
+  Most Influential Feature: Feature_21 (Diff: 0.7337)
+  Patched Predicted Class: regular with probabilities [0.16701111 0.83298889]
 
 Instance 132:
-  Baseline Predicted Class: deteriorated with probabilities [0.92290061 0.07709939]
-  Most Influential Feature: Feature_21 (Diff: 0.5834)
-  Patched Predicted Class: regular with probabilities [0.33954321 0.66045679]
+  Baseline Predicted Class: deteriorated with probabilities [0.92330389 0.07669611]
+  Most Influential Feature: Feature_21 (Diff: 0.5815)
+  Patched Predicted Class: regular with probabilities [0.34178614 0.65821386]
 
 Instance 133:
-  Baseline Predicted Class: deteriorated with probabilities [0.80028357 0.19971643]
-  Most Influential Feature: Feature_21 (Diff: 0.5307)
-  Patched Predicted Class: regular with probabilities [0.26963224 0.73036776]
+  Baseline Predicted Class: deteriorated with probabilities [0.79997665 0.20002335]
+  Most Influential Feature: Feature_21 (Diff: 0.5301)
+  Patched Predicted Class: regular with probabilities [0.26989653 0.73010347]
 
 Instance 134:
-  Baseline Predicted Class: regular with probabilities [0.01930933 0.98069067]
-  Most Influential Feature: Feature_21 (Diff: 0.6052)
-  Patched Predicted Class: deteriorated with probabilities [0.62452096 0.37547904]
+  Baseline Predicted Class: regular with probabilities [0.01936225 0.98063775]
+  Most Influential Feature: Feature_21 (Diff: 0.6044)
+  Patched Predicted Class: deteriorated with probabilities [0.62375244 0.37624756]
 
 Instance 135:
-  Baseline Predicted Class: deteriorated with probabilities [0.92727918 0.07272082]
-  Most Influential Feature: Feature_21 (Diff: 0.4761)
-  Patched Predicted Class: regular with probabilities [0.45115716 0.54884284]
+  Baseline Predicted Class: deteriorated with probabilities [0.92752595 0.07247405]
+  Most Influential Feature: Feature_21 (Diff: 0.4745)
+  Patched Predicted Class: regular with probabilities [0.45299373 0.54700627]
 
 Instance 136:
-  Baseline Predicted Class: deteriorated with probabilities [0.99723115 0.00276885]
-  Most Influential Feature: Feature_21 (Diff: 0.3478)
-  Patched Predicted Class: deteriorated with probabilities [0.64947461 0.35052539]
+  Baseline Predicted Class: deteriorated with probabilities [0.9972251 0.0027749]
+  Most Influential Feature: Feature_21 (Diff: 0.3466)
+  Patched Predicted Class: deteriorated with probabilities [0.65061645 0.34938355]
 
 Instance 137:
-  Baseline Predicted Class: deteriorated with probabilities [0.91044862 0.08955138]
-  Most Influential Feature: Feature_21 (Diff: 0.4776)
-  Patched Predicted Class: regular with probabilities [0.43283063 0.56716937]
+  Baseline Predicted Class: deteriorated with probabilities [0.91078685 0.08921315]
+  Most Influential Feature: Feature_21 (Diff: 0.4761)
+  Patched Predicted Class: regular with probabilities [0.43472102 0.56527898]
 
 Instance 138:
-  Baseline Predicted Class: deteriorated with probabilities [0.99858305 0.00141695]
-  Most Influential Feature: Feature_21 (Diff: 0.3639)
-  Patched Predicted Class: deteriorated with probabilities [0.63471623 0.36528377]
+  Baseline Predicted Class: deteriorated with probabilities [0.99860463 0.00139537]
+  Most Influential Feature: Feature_21 (Diff: 0.3584)
+  Patched Predicted Class: deteriorated with probabilities [0.64016607 0.35983393]
 
 Instance 139:
-  Baseline Predicted Class: regular with probabilities [0.03739129 0.96260871]
-  Most Influential Feature: Feature_21 (Diff: 0.7517)
-  Patched Predicted Class: deteriorated with probabilities [0.7891234 0.2108766]
+  Baseline Predicted Class: regular with probabilities [0.03731737 0.96268263]
+  Most Influential Feature: Feature_21 (Diff: 0.7504)
+  Patched Predicted Class: deteriorated with probabilities [0.78773856 0.21226144]
 
 Instance 140:
-  Baseline Predicted Class: regular with probabilities [0.00799442 0.99200558]
-  Most Influential Feature: Feature_21 (Diff: 0.4314)
-  Patched Predicted Class: regular with probabilities [0.43938761 0.56061239]
+  Baseline Predicted Class: regular with probabilities [0.00802546 0.99197454]
+  Most Influential Feature: Feature_21 (Diff: 0.4308)
+  Patched Predicted Class: regular with probabilities [0.43880813 0.56119187]
 
 Instance 141:
-  Baseline Predicted Class: deteriorated with probabilities [0.97975245 0.02024755]
-  Most Influential Feature: Feature_21 (Diff: 0.6079)
-  Patched Predicted Class: regular with probabilities [0.37189313 0.62810687]
+  Baseline Predicted Class: deteriorated with probabilities [0.97962472 0.02037528]
+  Most Influential Feature: Feature_21 (Diff: 0.6078)
+  Patched Predicted Class: regular with probabilities [0.37180025 0.62819975]
 
 Instance 142:
-  Baseline Predicted Class: regular with probabilities [0.02416283 0.97583717]
-  Most Influential Feature: Feature_21 (Diff: 0.5375)
-  Patched Predicted Class: deteriorated with probabilities [0.56169384 0.43830616]
+  Baseline Predicted Class: regular with probabilities [0.02431492 0.97568508]
+  Most Influential Feature: Feature_21 (Diff: 0.5376)
+  Patched Predicted Class: deteriorated with probabilities [0.5619483 0.4380517]
 
 Instance 143:
-  Baseline Predicted Class: regular with probabilities [0.01172109 0.98827891]
-  Most Influential Feature: Feature_21 (Diff: 0.3566)
-  Patched Predicted Class: regular with probabilities [0.36828225 0.63171775]
+  Baseline Predicted Class: regular with probabilities [0.01173386 0.98826614]
+  Most Influential Feature: Feature_21 (Diff: 0.3556)
+  Patched Predicted Class: regular with probabilities [0.36730006 0.63269994]
 
 Instance 144:
-  Baseline Predicted Class: deteriorated with probabilities [0.81435392 0.18564608]
-  Most Influential Feature: Feature_21 (Diff: 0.5784)
-  Patched Predicted Class: regular with probabilities [0.23595505 0.76404495]
+  Baseline Predicted Class: deteriorated with probabilities [0.8124501 0.1875499]
+  Most Influential Feature: Feature_21 (Diff: 0.5781)
+  Patched Predicted Class: regular with probabilities [0.23435167 0.76564833]
 
 Instance 145:
-  Baseline Predicted Class: regular with probabilities [0.00519428 0.99480572]
-  Most Influential Feature: Feature_21 (Diff: 0.3212)
-  Patched Predicted Class: regular with probabilities [0.32635486 0.67364514]
+  Baseline Predicted Class: regular with probabilities [0.00523096 0.99476904]
+  Most Influential Feature: Feature_21 (Diff: 0.3213)
+  Patched Predicted Class: regular with probabilities [0.32654796 0.67345204]
 
 Instance 146:
-  Baseline Predicted Class: deteriorated with probabilities [0.97535485 0.02464515]
-  Most Influential Feature: Feature_21 (Diff: 0.5458)
-  Patched Predicted Class: regular with probabilities [0.42953366 0.57046634]
+  Baseline Predicted Class: deteriorated with probabilities [0.97538018 0.02461982]
+  Most Influential Feature: Feature_21 (Diff: 0.5443)
+  Patched Predicted Class: regular with probabilities [0.43112037 0.56887963]
 
 Instance 147:
-  Baseline Predicted Class: regular with probabilities [0.02669846 0.97330154]
-  Most Influential Feature: Feature_21 (Diff: 0.7307)
-  Patched Predicted Class: deteriorated with probabilities [0.75742834 0.24257166]
+  Baseline Predicted Class: regular with probabilities [0.02696873 0.97303127]
+  Most Influential Feature: Feature_21 (Diff: 0.7312)
+  Patched Predicted Class: deteriorated with probabilities [0.75813959 0.24186041]
 
 Instance 148:
-  Baseline Predicted Class: regular with probabilities [8.04667927e-04 9.99195332e-01]
-  Most Influential Feature: Feature_21 (Diff: 0.0602)
-  Patched Predicted Class: regular with probabilities [0.06103645 0.93896355]
+  Baseline Predicted Class: regular with probabilities [7.90645389e-04 9.99209355e-01]
+  Most Influential Feature: Feature_21 (Diff: 0.0589)
+  Patched Predicted Class: regular with probabilities [0.05969791 0.94030209]
 
 Instance 149:
-  Baseline Predicted Class: deteriorated with probabilities [0.89054631 0.10945369]
-  Most Influential Feature: Feature_21 (Diff: 0.6593)
-  Patched Predicted Class: regular with probabilities [0.23126469 0.76873531]
+  Baseline Predicted Class: deteriorated with probabilities [0.8905881 0.1094119]
+  Most Influential Feature: Feature_21 (Diff: 0.6584)
+  Patched Predicted Class: regular with probabilities [0.23214378 0.76785622]
 
 Instance 150:
-  Baseline Predicted Class: regular with probabilities [0.01402492 0.98597508]
-  Most Influential Feature: Feature_21 (Diff: 0.5777)
-  Patched Predicted Class: deteriorated with probabilities [0.59176679 0.40823321]
+  Baseline Predicted Class: regular with probabilities [0.01415027 0.98584973]
+  Most Influential Feature: Feature_21 (Diff: 0.5783)
+  Patched Predicted Class: deteriorated with probabilities [0.59241928 0.40758072]
 
 
 Total Test Instances: 151
