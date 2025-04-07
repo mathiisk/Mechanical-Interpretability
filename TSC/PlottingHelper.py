@@ -138,11 +138,106 @@ def plot_prediction_change_ratio(changed_count, unchanged_count):
     print("Prediction change ratio plot saved in Outputs/Plots/Prediction_Change_Ratio.png")
 
 
+def plot_changed_vs_unchanged(per_feature_df):
+    """
+    Creates a horizontal bar chart showing, for each feature,
+    how many patches changed vs. didn't change the prediction.
+    Bars are stacked: 'Changed' portion + 'Unchanged' portion.
+    """
+    # Sort features by number of changed predictions, descending
+    df_sorted = per_feature_df.sort_values("changed", ascending=False)
+
+    features = df_sorted["feature"]
+    changed_counts = df_sorted["changed"]
+    unchanged_counts = df_sorted["total_patches"] - df_sorted["changed"]
+
+    plt.figure()
+    plt.barh(features, changed_counts)
+    # Stack "Unchanged" on top of "Changed" using 'left'
+    plt.barh(features, unchanged_counts, left=changed_counts)
+    plt.xlabel("Number of Test Instances (Changed vs. Unchanged)")
+    plt.ylabel("Feature")
+    plt.title("Changed vs. Unchanged Predictions by Feature")
+    plt.legend(["Changed", "Unchanged"])
+    # Flip the y-axis so the highest bar is at the top
+    plt.gca().invert_yaxis()
+    plt.show()
+
+
+def plot_patch_proportions(per_feature_df):
+    """
+    Creates a horizontal bar chart sorted by the proportion of patches
+    that flipped the prediction for each feature.
+    """
+    # Sort features by 'proportion' of changed predictions, descending
+    df_sorted = per_feature_df.sort_values("proportion", ascending=False)
+
+    features = df_sorted["feature"]
+    proportions = df_sorted["proportion"]
+
+    plt.figure()
+    plt.barh(features, proportions)
+    plt.xlabel("Proportion of Instances that Changed")
+    plt.ylabel("Feature")
+    plt.title("Feature Patch Change Proportions")
+    # Flip the y-axis so highest proportion is at the top
+    plt.gca().invert_yaxis()
+    plt.show()
+
+def plot_diverging_bar(per_feature_df):
+    """
+    Create a diverging bar chart of 'changed' vs. 'unchanged' for each feature.
+    Bars to the left (negative X) show how many were Unchanged,
+    bars to the right (positive X) show how many were Changed.
+    """
+    df = per_feature_df.copy()
+    df["unchanged"] = df["total_patches"] - df["changed"]
+    df = df.sort_values("changed", ascending=False).reset_index(drop=True)
+
+    df["unchanged_plot"] = -df["unchanged"]  # negative for left side
+    df["changed_plot"] = df["changed"]       # positive for right side
+    features = df["feature"]
+
+    plt.figure(figsize=(8, 6))
+    plt.barh(features, df["unchanged_plot"], color="orange")
+    plt.barh(features, df["changed_plot"], color="blue")
+    plt.axvline(0, color='black', linewidth=1)
+    plt.title("Changed vs. Unchanged Predictions by Feature (Diverging)")
+    plt.xlabel("Number of Instances")
+    plt.ylabel("Feature")
+
+    # Make sure we see the full negative and positive bars
+    max_x = max(df["changed_plot"].max(), abs(df["unchanged_plot"].min()))
+    plt.xlim(-max_x, max_x)
+
+    # Invert y-axis so the most-changed features are at the top
+    plt.gca().invert_yaxis()
+
+    from matplotlib.patches import Patch
+    legend_handles = [
+        Patch(color='blue', label='Changed'),
+        Patch(color='orange', label='Unchanged')
+    ]
+    plt.legend(handles=legend_handles, loc='lower right')
+
+    plt.tight_layout()
+    os.makedirs("Outputs/Plots", exist_ok=True)
+    plt.savefig("Outputs/Plots/DivergencePlot.png")
+    plt.close()
+    print("Baseline vs Intervention scatter plot saved in Outputs/Plots/DivergencePlot.png")
+
+
 if __name__ == "__main__":
-    # Example of reading saved class means for other plots if needed:
-    class_means = pd.read_csv("Outputs/ClassMeans.csv", index_col=0)
-    plot_mean_features(class_means)
-    plot_mean_differences(class_means)
-    plot_baseline_vs_intervention()
-    plot_prediction_change_ratio(changed_count=120, unchanged_count=31)
-    plot_probability_changes()
+    # class_means = pd.read_csv("Outputs/ClassMeans.csv", index_col=0)
+    # plot_mean_features(class_means)
+    # plot_mean_differences(class_means)
+    # plot_baseline_vs_intervention()
+    # # plot_prediction_change_ratio(changed_count=120, unchanged_count=31)
+    # plot_probability_changes()
+
+    per_feature_df = pd.read_csv("Outputs/PerFeatureBinomialTestResults.csv")
+    # plot_changed_vs_unchanged(per_feature_df)
+    # plot_patch_proportions(per_feature_df)
+    plot_diverging_bar(per_feature_df)
+
+

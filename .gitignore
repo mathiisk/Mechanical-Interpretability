@@ -4,3 +4,11 @@
 /.idea
 /.idea
 /TSC/__pycache__
+.idea/Mechanical-Interpretability.iml
+.idea/Mechanical-Interpretability.iml
+.idea/misc.xml
+TSC/Outputs/AggregatedInterventionStats.csv
+TSC/Outputs/AllFeatureBinomialTestResult.txt
+TSC/Outputs/ClassMeans.csv
+TSC/Outputs/FeatureTTestResults.csv
+/TSC/Outputs
