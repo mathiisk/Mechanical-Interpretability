@@ -1,1 +1,1 @@
-{'t_statistic': 44.53541892948888, 'p_value': 2.265449285674607e-88, 'Significant': True}
+{'t_statistic': 37.58841390874867, 'p_value': 5.706271026014765e-13, 'Significant': True}
