@@ -1,0 +1,1 @@
+{'t_statistic': 37.58841390874867, 'p_value': 5.706271026014765e-13, 'Significant': True}
