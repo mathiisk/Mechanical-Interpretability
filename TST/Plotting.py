@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 def main():
     # Load the saved results.
     data = np.load("patching_results.npz")
-        corrupted_logits = data["corrupted_logits"]
+    corrupted_logits = data["corrupted_logits"]
     clean_logits = data["clean_logits"]
     patched_logits = data["patched_logits"]
     corrupted_probs = data["corrupted_probs"]
